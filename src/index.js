@@ -62,7 +62,7 @@ function addBreedList(breed, letter) {
    
 }
 
-const handleClick = function(e){
+const handleClick = function(e){ //this is hilarious
     e.target.style.color = "red"
 }
 
